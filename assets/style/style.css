@@ -1,0 +1,121 @@
+body {
+    background-image: url(https://wallpaperaccess.com/full/38580.jpg);
+}
+
+.me {
+    max-width: 33%;
+    height: auto;
+    float: left;
+    padding: 25px;
+}
+
+.portdescript {
+    padding-top: 50px;
+}
+
+.card {
+    margin: 5%;
+    float: right;
+}
+
+.card-body {
+    float: left;
+    align-items: center;
+    background-color: rgba(148, 182, 196, 0.3);
+}
+
+.buttonlinks {
+    padding-left: 50px;
+    align-content: center;
+    float: left;
+}
+
+h5 {
+    text-align: center;
+}
+
+.media {
+    background-color: rgba(117, 190, 218, .5);
+    margin: 2%;
+    padding: 1%;
+    border: solid 1px black;
+}
+
+.footertext {
+    position: sticky;
+    position: -webkit-sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: black;
+    text-align: center;
+}
+
+#container {
+    border: solid 1px darkgrey;
+    background-color: rgba(117, 190, 218, .5);
+    ;
+    margin: 5%;
+}
+
+.applink:default {
+    color: black;
+}
+
+.applink:hover {
+    color: indigo;
+}
+
+.applink:focus {
+    color: green;
+}
+
+.applink:active {
+    color: black;
+}
+
+.weblink:default {
+    color: black;
+}
+
+.weblink:hover {
+    color: indigo;
+}
+
+.weblink:focus {
+    color: green;
+}
+
+.weblink:active {
+    color: black;
+}
+
+.exelink:default {
+    color: black;
+}
+
+.exelink:hover {
+    color: indigo;
+}
+
+.exelink:focus {
+    color: green;
+}
+
+.exelink:active {
+    color: black;
+}
+
+.col-md-8 {
+    background-color: rgba(117, 190, 218, .5);
+}
+
+#buffer {
+   padding: 5%;
+   background-color: rgba(117, 190, 218, 0.0);
+}
+#container2 {
+    margin: 2%;
+    padding: 2%;
+}
